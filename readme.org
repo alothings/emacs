@@ -1,0 +1,7 @@
+*Emacs Configuration
+--------------------
+
+** Most of the configuration in this file is from Mike Zamanskiy tutorials on emacs.
+   - Org mode addons
+   - Reveal.js to export org files to html
+   - Autocompletion using..
